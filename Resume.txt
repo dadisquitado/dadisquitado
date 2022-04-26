@@ -1,0 +1,186 @@
+DESIREE ALCANTARA DISQUITADO
++65 9165 0483
+dadisquitado@gmail.com
+
+
+SUMMARY
+
+T24 Technical/Functional Consultant
+Triple’A Consultant, Actuate and Oracle PL/SQL Developer
+
+EDUCATION
+
+Collegiate Level	MAPÚA UNIVERSITY
+Muralla St., Intramuros, Manila
+Bachelor of Science in Electronics Engineering
+July 2007 – February 2012
+
+TECHNICAL PROFICIENCIES
+
+Platforms:		T24 R13 / T24 R16 / Triple’A R16 / Actuate BIRT / Linux
+Languages:	jBASE, MS SQL, Python, Java, HTML, C#, ASP.NET, VB, Oracle PL/SQL, Unix Scripting
+Tools:     	Temenos Enterprise Design Studio, Microsoft SQL Server, SQL Developer, GIT
+
+WORK EXPERIENCE
+
+July 1, 2012 – June 25, 2016	EastWest Banking Corporation, Inc. (EWB)
+Beaufort, 5th Avenue corner 23rd Street, Bonifacio Global City
+Taguig City, Philippines 1634
+Programmer / Systems Analyst - Assistant Manager
+
+July 1, 2016 – August 31, 2018	OneAston, Inc.
+10th Flr. Two E-Com Tower A, Harbor Drive cor. Palm Coast, Mall of Asia Complex
+San Rafael, Pasay City, Philippines 1302
+Business Application Developer
+
+Sept 1, 2018 – Sept 25, 2021	OneAston Pte. Ltd.
+9 Raffles Place, #17-02 Republic Plaza II, Singapore 048619
+Senior Consultant
+
+Sept 27, 2021 – Present		Standard Chartered Bank (SCB)
+8 Marina Boulevard, #27-01, Marina Bay Financial Centre, Singapore 018981
+Lead, Development
+
+WORK RELATED PROJECTS
+
+September 2021 – Present 		Triple’A Enhancements
+					Role: Development Lead / Scrum Master
+•	Client Investment Profiling (CIP) in TAP and TCIB and integration with online banking system using APIs.
+•	Client Investment Profiling PDF Generation using Actuate
+•	Client Advisory PDF Generation using Actuate
+•	Integration and processing of messages using ITX
+•	Development EOD batch scripts using UNIX scripting language
+•	JSON message parsing using JAVA
+•	Analysis of issues and aids developers on issue resolution
+•	Acted as Scrum Master for the squad
+•	CIP Renewal Notification
+•	CIP Expiry Notification
+•	Handling of EOD jobs thru Control-M
+January 2018 – September 2021	Triple’A Upgrade Project
+					Role: Development Lead of Actuate Report and Triple’A GUI
+
+System Analysis
+•	Analyze how to configure GUI based on the business requirement
+•	Analyze issues and provide resolutions
+Technical
+•	Develops Reports using Actuate Reporting Platform and Triple’A GUI Formats
+•	Triple’A GUI and TSL scripting
+•	Linux, VB and Oracle Scripting
+Projects
+•	Implementation of Client Investment Profiling using Temenos Dynamic Questionnaire solution
+•	Migration of client static information from third party systems into TAP
+•	Implementation of notification to clients for new/renewal/expiry of client investment profile
+•	Development of suitability checks using TAP input controls/trading constraints/holding constraints
+•	Development of client investment profile PDF report and internal CSV reports
+
+July 2016 – December 2017		T24 Core Banking Transformation Project (Midas to T24)
+					Role: Functional/Technical Consultant, Reports Development Lead
+
+System Analysis
+•	Analyze how to configure core parameters based on the business requirement
+•	Prepares Functional Specification Documents
+
+Technical
+•	Prepares Technical Specification Documents
+•	Prepares Installation Guides and User Guides
+•	Setup AA Product (Accounts, Deposits, Lending)
+•	Develops Accounting Related Reports and assists on investigation of accounting entries imbalances
+•	Develops Enquiry, Version, De Mapping Routines, Composite/Tabbed Screens, Menu
+•	Develops Batch Routines and SQL Scripts for the reporting requirements
+•	Deploys Core Update
+•	Create and Deploy BCON Packages
+•	Setup EB.FILE.UPLOAD browser war files
+•	Run and Investigate cause of COB crashes
+•	Use of DMD and DME for Data Migration
+
+Business Knowhow
+•	Knows the business operation of the bank especially on Accounts, Deposits and Lending (Retail Banking)
+•	Knows basic understanding on Securities and Payments module (Private Banking)
+
+Testing
+•	Unit testing of core updates and all local developments
+•	Testing of core functionality to check if it meets the requirement
+
+November 2013 – June 2016	T24 Core Banking Application Support
+					Role: Make sure incidents are resolved within the turn around time
+
+Technical
+•	Executes/Assigns IT Service Requests to programmers
+•	Updates status of RT requests for monitoring (e.g. RT /Public Folder)
+
+Testing
+•	Analyzes, writes, tests, debugs and maintains software programs and applications
+•	Tests AASSURE fixes from Temenos
+
+Customer Service
+•	Attends to queries of users in a timely manner
+•	Coordination with Temenos
+
+Systems Analysis
+•	Diagnoses problems in response to user reported incidents
+•	Analyses, designs, configures application that supports business requirement taking performance and maintainability into consideration
+•	Analyzes trends and patterns of problems to identify permanent solutions
+•	Provides application support to the unit/s being supported
+
+Adherence to Policies
+•	Complies with the SDLC Policy Manual
+•	Complies with ITG and bank’s policies
+January 2013 – November 2014	EWB T24 Core Banking Transformation Project (Phoenix to T24)
+					Role: Leads the Reports Development Team and Assists on Functional Design
+
+Technical
+•	Develops Batch Routines (Multi-threaded) to cater Reporting Requirements
+•	Creates Enquiries, Versions, Composite/Tabbed Screens, HelpText MainMenu/Menu, Advices thru EB.ADVICES module, Deal Slips in TELLER module, Local tables thru EB.TABLE.DEFINITION
+•	Developed AA product under the ACCOUNTS product line that generates bonus interest whenever there’s no withdrawal for two consecutive months.
+
+Testing
+•	Performs functional and technical testing
+•	Writes technical specification requirements
+•	Ensures adherence of programmers to the agreed standards in programming 
+
+Business Knowhow
+•	Knows the basic business operation of the bank especially on Deposits Services and Retail Banking
+•	Knowledgeable of the business operation of the unit/s being supported Documentation
+•	Reviews and documents software programs and applications
+•	Prepares and documents technical software design specifications document
+•	Documentation of user’s manual
+
+Leadership
+•	Provides leadership to Programmers
+
+
+TRAININGS AND SEMINARS ATTENDED
+
+August 27, 2021			AGILE Practitioner
+					Simplilearn
+August 27, 2021			AGILE Scrum Master
+					Simplilearn
+July 10, 2019			AGILE Essentials
+					Standard Chartered Bank, Singapore
+January 8-12, 2018			Triple’A - Front Office - Portfolio Management - Actuate
+-	Reporting Foundation
+-	Reporting Adaptation
+					Temenos, Singapore
+January 29-30, 2013		Essentials of Effective Project Management				
+EastWest Banking Corporation, Makati City, Philippines
+January 17-18, 2013		Effective Oral Communication Workshop				
+EastWest Banking Corporation, Makati City, Philippines
+January 7-11, 2013			Structured Systems Analysis and Design				
+Phoenix One Knowledge Institute, Makati City, Philippines
+July 16 – August 29, 2012		Career Entry Course for Software Developer – Microsoft.NET		
+Phoenix One Knowledge Institute, Makati City, Philippines
+August 30 – September 5, 2012	Object Oriented Analysis and Design					
+Phoenix One Knowledge Institute, Makati City, Philippines
+September 5-11, 2012		Programming in Java Standard Edition
+Phoenix One Knowledge Institute, Makati City, Philippines
+September 12-21, 2012		Programming in Java Enterprise Edition				
+Phoenix One Knowledge Institute, Makati City, Philippines
+
+PERSONAL PROFILE
+
+Civil Status:		Single
+Nationality:		Filipino
+Others:	Can work under pressure with minimal supervision. 
+Commendable leadership skills and manage development to achieve high quality outputs
+Can rapidly adapt to new methodologies and incorporate new ideas into quality results.
+Capable of quick understanding business process and incorporate possible ways to streamline the current process.
